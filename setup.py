@@ -16,7 +16,7 @@ setup(
     # https://packaging.python.org/en/latest/single_source_version.html
     version='1.0',
 
-    description='A mock Dia object for testing plugins',
+    description='A simple drop in replacement for Dia for use in developing and testing Python plugins',
     long_description=long_description,
 
     # The project's main homepage.
